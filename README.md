@@ -1,3 +1,4 @@
+![ANDROID STRATERGY](https://user-images.githubusercontent.com/53940939/117925019-4a2b4680-b314-11eb-8bcb-7ba265e642d7.png)
 #Title- Covid-19 Live Tracking Android Application
 
 Our Idea is : -
