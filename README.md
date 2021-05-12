@@ -15,7 +15,7 @@
 3. Tools Like Firebase and many others free open sources which is provided by google.
 4. PC - Laptop - for coding purpose, Mobile Phones - to run apps or checking there working.
 
-**Requirement To Run Our Project :- 
+**Requirement To Run Our Project :-** 
 1. Any Android Phone ( Above 4.0 Version )
 2. Android Tablet 
 3. Android Tv
