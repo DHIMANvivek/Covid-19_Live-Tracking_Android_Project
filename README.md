@@ -1,7 +1,7 @@
 
 #Title- Covid-19 Live Tracking Android Application
 
-Our Idea is : -
+**Our Idea is : -**
 1.  To cover all the important details to tackle with Corona Virus
 2. Live Time Updated Reports Regarding Corona.
 3. Some Motivation Online Videos For the User To Make Themselves Secure.
