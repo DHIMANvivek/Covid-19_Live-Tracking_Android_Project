@@ -1,5 +1,5 @@
 
-##**Title-** Covid-19 Live Tracking Android Application
+# Title- Covid-19 Live Tracking Android Application
 
 **Our Idea is : -**
 1.  To cover all the important details to tackle with Corona Virus
