@@ -1,5 +1,5 @@
 
-# Title- Covid-19 Live Tracking Android Application ( Coding Part Of App in Master Branch :- https://github.com/THINKandroid01/Covid-19_Live-Tracking_Project )
+# Title- Covid-19 Live Tracking Android Application ( Coding Part Of App in Branch :- https://github.com/THINKandroid01/Covid-19_Live-Tracking_Project )
 
 **Our Idea is : -**
 1.  To cover all the important details to tackle with Corona Virus
