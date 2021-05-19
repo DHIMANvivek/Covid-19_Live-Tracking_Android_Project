@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yellow">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="430dp"
+        android:src="@drawable/pm" />
+
+    <TextView
+        style="@style/AppTheme"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:layout_marginTop="440dp"
+
+
+        android:text="You Should Also Pay By Scan This QR Code"
+        android:textSize="20sp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yellow"
+
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="111dp"
+        android:layout_marginTop="11dp"
+
+        android:src="@mipmap/india1" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:text="Covid 19 - Live Tracker"
+        android:layout_marginTop="145dp"
+
+        android:fontFamily="@font/nkfree"
+        android:textSize="35sp"
+        android:gravity="center"/>
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign in With "
+        android:fontFamily="@font/font1bold"
+        android:gravity="center"
+        android:textSize="15sp"
+        android:layout_marginTop="430dp"/>
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/sign_in_button"
+        android:layout_width="271dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="55dp"
+        android:textAlignment="center"
+        android:background="@drawable/rounded"
+
+        android:layout_marginTop="510dp"
+       />
+
+
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fight With Covid-19"
+        android:fontFamily="@font/image2"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:textSize="20sp"/>
+
+    <ImageView
+
+        android:layout_width="409dp"
+        android:layout_height="166dp"
+
+        android:layout_marginTop="230dp"
+        android:layout_marginBottom="64dp"
+        app:srcCompat="@drawable/map" />
+
+
+
+
+
+</RelativeLayout>

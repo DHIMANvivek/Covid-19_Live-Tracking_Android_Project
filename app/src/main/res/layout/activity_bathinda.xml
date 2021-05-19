@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/imagebackground"
+    tools:context=".Bathinda">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_marginLeft="27dp"
+                android:layout_marginTop="100dp"
+                app:cardBackgroundColor="@color/orange"
+                app:cardCornerRadius="50dp"
+                app:cardElevation="50dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="270dp"
+                        android:layout_height="96dp"
+                        android:layout_marginLeft="22dp"
+                        android:layout_marginTop="28dp"
+                        android:text="Ivy Hospital, Bathinda"
+                        android:textColor="@color/red"
+                        android:textSize="22dp" />
+
+                    <ImageView
+                        android:layout_width="52dp"
+                        android:layout_height="60dp"
+                        android:layout_marginLeft="44dp"
+                        android:layout_marginTop="33dp"
+                        android:background="@drawable/ic_baseline_phone_24"
+                        android:id="@+id/ivy"
+
+                        />
+
+                    <ImageView
+                        android:layout_width="52dp"
+                        android:layout_height="60dp"
+                        android:layout_marginLeft="200dp"
+android:id="@+id/ivylocation"
+                        android:background="@drawable/ic_baseline_location_on_24" />
+
+
+                </LinearLayout>
+
+
+
+
+
+            </androidx.cardview.widget.CardView>
+
+
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_marginLeft="27dp"
+                android:layout_marginTop="720dp"
+                app:cardBackgroundColor="@color/orange"
+                app:cardCornerRadius="50dp"
+                app:cardElevation="50dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="270dp"
+                        android:layout_height="96dp"
+                        android:layout_marginLeft="22dp"
+                        android:layout_marginTop="28dp"
+                        android:text="Bathinda Neurospine and Trauma Centre"
+                        android:textColor="@color/red"
+                        android:textSize="22dp" />
+
+                    <ImageView
+                        android:layout_width="52dp"
+                        android:layout_height="60dp"
+                        android:layout_marginLeft="44dp"
+                        android:layout_marginTop="33dp"
+                        android:background="@drawable/ic_baseline_phone_24"
+                        android:id="@+id/bath"
+
+                        />
+
+                    <ImageView
+                        android:layout_width="52dp"
+                        android:layout_height="60dp"
+                        android:layout_marginLeft="200dp"
+android:id="@+id/bathlocation"
+                        android:background="@drawable/ic_baseline_location_on_24" />
+
+
+                </LinearLayout>
+
+
+
+
+
+            </androidx.cardview.widget.CardView>
+
+
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_marginLeft="27dp"
+                android:layout_marginTop="410dp"
+                app:cardBackgroundColor="@color/orange"
+                app:cardCornerRadius="50dp"
+                app:cardElevation="50dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="270dp"
+                        android:layout_height="96dp"
+                        android:layout_marginLeft="22dp"
+                        android:layout_marginTop="28dp"
+                        android:text="Bathinda Piles Hospital"
+                        android:textColor="@color/red"
+                        android:textSize="22dp" />
+
+                    <ImageView
+                        android:layout_width="52dp"
+                        android:layout_height="60dp"
+                        android:layout_marginLeft="44dp"
+                        android:layout_marginTop="33dp"
+                        android:background="@drawable/ic_baseline_phone_24"
+                        android:id="@+id/pile"
+
+                        />
+
+                    <ImageView
+                        android:layout_width="52dp"
+                        android:layout_height="60dp"
+                        android:layout_marginLeft="200dp"
+android:id="@+id/pilelocation"
+                        android:background="@drawable/ic_baseline_location_on_24" />
+
+
+                </LinearLayout>
+
+
+
+
+
+            </androidx.cardview.widget.CardView>
+
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+
+
+
+</RelativeLayout>

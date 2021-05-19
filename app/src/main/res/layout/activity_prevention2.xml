@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/yellow"
+    android:orientation="vertical">
+
+
+
+    <RelativeLayout
+        android:layout_width="358dp"
+        android:layout_height="wrap_content"
+        android:padding="30dp">
+
+
+
+        <ImageView
+            android:layout_width="45dp"
+            android:layout_height="39dp"
+            android:layout_centerVertical="true"
+            android:id="@+id/home"
+
+            android:src="@drawable/ic_baseline_home_24" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:fontFamily="sans-serif-black"
+            android:letterSpacing="0.05"
+            android:text="COVID-19"
+            android:textColor="#393E46"
+            android:textSize="23dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/search"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/search" />
+
+    </RelativeLayout>
+
+
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="348dp"
+        android:layout_height="195dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="15dp"
+        android:padding="30dp"
+        app:cardBackgroundColor="#393E46"
+        app:cardCornerRadius="15dp"
+        app:cardElevation="10dp">
+
+        <LinearLayout
+            android:layout_width="345dp"
+            android:layout_height="169dp"
+            android:layout_marginRight="12dp"
+            android:orientation="vertical"
+            android:paddingLeft="30dp"
+            android:paddingTop="30dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Emergency"
+                android:textColor="#32E0C4"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="How to know if I have covid-19"
+                android:textColor="#fff"
+                android:textSize="23dp"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp">
+
+                <Button
+                    android:id="@+id/button1"
+                    android:layout_width="129dp"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/button"
+                    android:text="Call Now"
+                    android:textColor="#fff"
+                    android:textSize="16dp"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/donation"
+                    android:layout_width="127dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="1dp"
+                    android:background="@drawable/forget"
+
+                    android:text="Donation"
+                    android:textColor="#32E0C4"
+                    android:textSize="16dp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:layout_width="366dp"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="12dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+
+            android:layout_marginTop="10dp"
+            android:text="Covid-19 Guide"
+            android:textColor="#393E46"
+            android:textSize="26dp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="16dp"
+            android:orientation="horizontal"
+            android:paddingTop="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:letterSpacing="0.02"
+                android:text="Symptoms"
+                android:textColor="#32E0C4"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="189dp"
+            android:layout_marginLeft="20dp"
+            android:orientation="horizontal">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="98dp"
+                android:layout_height="160dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:padding="10dp"
+                app:cardBackgroundColor="#393E46"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp">
+
+                <LinearLayout
+                    android:layout_width="95dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:background="@drawable/high_fever" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="sans-serif-black"
+                        android:text="High Fever"
+                        android:textColor="#32E0C4"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:fontFamily="sans-serif-medium"
+                        android:text="37*/40*"
+                        android:textColor="#fff"
+                        android:textSize="13dp" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="95dp"
+                android:layout_height="160dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:padding="10dp"
+                app:cardBackgroundColor="#393E46"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp">
+
+                <LinearLayout
+                    android:layout_width="79dp"
+                    android:layout_height="145dp"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:background="@drawable/fever" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:text="Dry Cough"
+                        android:textColor="#32E0C4"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="8dp"
+                        android:layout_marginTop="2dp"
+                        android:fontFamily="sans-serif-medium"
+                        android:text="Uncontrollable"
+                        android:textColor="#fff"
+                        android:textSize="13dp" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="92dp"
+                android:layout_height="160dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:padding="10dp"
+                app:cardBackgroundColor="#393E46"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp">
+
+                <LinearLayout
+                    android:layout_width="76dp"
+                    android:layout_height="147dp"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="103dp"
+                        android:layout_height="111dp"
+                        android:background="@drawable/fever" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:text="Fatigue"
+                        android:textColor="#32E0C4"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+
+        </LinearLayout>
+
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+android:backgroundTint="#393E46"
+                android:id="@+id/Elecdownload">
+
+                <LinearLayout
+                    android:layout_width="338dp"
+                    android:layout_height="106dp"
+                    android:layout_margin="20dp"
+                    android:orientation="vertical"
+
+                    android:padding="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="W.H.O. GuideLine"
+
+                        android:textColor="@color/white"
+                        android:textSize="20sp"
+
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:layout_width="109dp"
+
+
+
+                        android:layout_height="46dp"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="5dp"
+                        android:background="@drawable/stroke_round"
+
+                        android:src="@drawable/ic_baseline_arrow_downward_24" />
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardUseCompatPadding="true"
+                app:cardElevation="5dp"
+
+                app:cardCornerRadius="5dp">
+
+
+
+
+            </androidx.cardview.widget.CardView>
+
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

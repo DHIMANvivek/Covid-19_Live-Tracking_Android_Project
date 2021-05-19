@@ -1,0 +1,246 @@
+<resources>
+    <string name="app_name">Covid 19 - Live Tracker</string>
+    <string name="title_activity_health_care_centers">Map</string>
+    <string name="match_layout">match_parent</string>
+    <string name="rupee_symbol">₹</string>
+    <string name="payment_img">payment_img</string>
+    <!--Medical Problems-->
+    <string-array name="medicalProblems">
+        <item>Fever</item>
+        <item>Headache</item>
+        <item>Cold and Cough</item>
+        <item>Vomiting</item>
+        <item>Constipation</item>
+        <item>Blood Pressure</item>
+        <item>Daily Health Care</item>
+    </string-array>
+
+    <!--Medicine Names-->
+
+    <!--Fever-->
+    <string name="feverNuberol">Nuberol Forte</string>
+    <string name="feverAspirin">Aspirin</string>
+    <string name="feverActironCF">Actiron CF</string>
+    <string name="feverAcetaminophen">Acetaminophen</string>
+    <string name="feverPanadol">Panadol</string>
+
+    <!--Headache-->
+    <string name="headacheProthiaden">Prothiaden</string>
+    <string name="headacheDisprin">Disprin</string>
+    <string name="headacheParacetamol">Paracetamol</string>
+    <string name="headacheZolmitriptan">Zolmitriptan</string>
+    <string name="headacheNaproxen">Naproxen</string>
+
+    <!--Cold and Cough-->
+    <string name="coldAndCoughLeflox">Leflox</string>
+    <string name="coldAndCoughCodeine">Codeine</string>
+    <string name="coldAndCoughArinac">Arinac</string>
+    <string name="coldAndCoughDextromethorphan">Dextromethorphan</string>
+    <string name="coldAndCoughNoscapine">Noscapine</string>
+
+    <!--Vomitng-->
+    <string name="vomitingDronabinol">Dronabinol</string>
+    <string name="vomitingAprepitant">Aprepitant</string>
+    <string name="vomitingDexamethasone">Dexamethasone</string>
+    <string name="vomitingNabilone">Nabilone</string>
+    <string name="vomitingDroperidol">Droperidol</string>
+
+    <!--Constipation-->
+    <string name="constipationBuscopan">Buscopan</string>
+    <string name="constipationLactulose">Lactulose</string>
+    <string name="constipationGlucomannan">Glucomannan</string>
+    <string name="constipationBisacodyl">Bisacodyl</string>
+    <string name="constipationLomotil">Lomotil</string>
+
+    <!--blood Pressure-->
+    <string name="bloodPressureLisinopril">Lisinopril</string>
+    <string name="bloodPressureAtenolol">Atenolol</string>
+    <string name="bloodPressureActrapidPenfill">ACTRAPID PENFILL</string>
+    <string name="bloodPressureAmaryl">Amaryl</string>
+    <string name="bloodPressureDiamicronMR">DIAMICRON MR</string>
+
+    <!--daily health care-->
+    <string name="dailyHealthCareGlucobay">Glucobay</string>
+    <string name="dailyHealthCareGNCBurn60">GNC Burn 60</string>
+    <string name="dailyHealthCareCalciumPluswithMagnesium">Calcium Plus® with Magnesium</string>
+    <string name="dailyHealthCareBetaCarotene">Beta Carotene</string>
+    <string name="dailyHealthCareADVANTEC">ADVANTEC</string>
+    <string name="dailyHealthCareAscard">Ascard</string>
+    <string name="dailyHealthCareLoprin">Loprin</string>
+    <string name="dailyHealthCareCLENILNEBULISER">CLENIL NEBULISER</string>
+    <string name="dailyHealthCareMontelukast">Montelukast</string>
+
+
+    <!--Medicines Descriptions-->
+
+    <!--Fever-->
+    <string name="feverNuberolDescription">
+        Nuberol is produced by SEARLE, which contains paracetamol + Orphenadrine Citrate, which is analgesic and muscle relaxant tablets.
+        If you are facing fever certain pains in your body, you can use Nuberol and Nuberol forte as a remedy. 
+    </string>
+    <string name="feverAspirinDescription">Aspirin is used to treat pain, and reduce fever or inflammation. It is sometimes used to treat or prevent heart attacks, strokes, and chest pain .
+    </string>
+    <string name="feverActironCFDescription">Actiron CF is produced by Murfi, which contains paracetamol + Caffeine + Chlorpheniramine Maleate (CPM).
+        It is an effective remedy for pain, fever and cold.</string>
+    <string name="feverAcetaminophenDescription">Acetaminophen is a non-opiate, analgesic and antipyretic, prescribed for headache, pain (muscle ache,
+        backache) and fever either alone or combined with other medications.</string>
+    <string name="feverPanadolDescription">Relieving mild to moderate pain such as headache, migraine, nerve pain toothache, sore throat, earache and
+        rheumatic and muscular aches and pains. Relieving aches, pains, fever and discomfort </string>
+
+    <!--Headache-->
+    <string name="headacheProthiadenDescription">The active ingredient in Prothiaden is dosulepin hydrochloride. Prothiaden belongs to a group of medicines
+        called tricyclic antidepressants. PROTHIADEN is used to treat depression and can also help reduce feelings of anxiety.</string>
+    <string name="headacheDisprinDescription">The active ingredient in Prothiaden is dosulepin hydrochloride. Prothiaden belongs to a group of medicines called
+        tricyclic antidepressants. PROTHIADEN is used to treat depression and can also help reduce feelings of anxiety.</string>
+    <string name="headacheParacetamolDescription">The active ingredient in Prothiaden is dosulepin hydrochloride. Prothiaden belongs to a group of medicines called
+        tricyclic antidepressants. PROTHIADEN is used to treat depression and can also help reduce feelings of anxiety.</string>
+    <string name="headacheZolmitriptanDescription">The active ingredient in Prothiaden is dosulepin hydrochloride. Prothiaden belongs to a group of medicines called
+        tricyclic antidepressants. PROTHIADEN is used to treat depression and can also help reduce feelings of anxiety.</string>
+    <string name="headacheNaproxenDescription">Naproxen is a nonsteroidal anti-inflammatory drug(NSAID). It works by reducing headache and pain in the body.
+        Naproxen is used to treatpain or inflammation caused by conditions such as arthritis.</string>
+
+    <!--Cold and Cough-->
+    <string name="coldAndCoughLefloxDescription">Treating infections caused by certain bacteria. It is also used to prevent or treat anthrax or plague in certain
+        patients. Levofloxacin tablets are a quinolone antibiotic.</string>
+    <string name="coldAndCoughCodeineDescription">Treating infections caused by certain bacteria. It is also used to prevent or treat anthrax or plague in certain 
+        patients. Levofloxacin tablets are a quinolone antibiotic.</string>
+    <string name="coldAndCoughArinacDescription">Treating infections caused by certain bacteria. It is also used to prevent or treat anthrax or plague in certain patients. 
+        Levofloxacin tablets are a quinolone antibiotic.</string>
+    <string name="coldAndCoughDextromethorphanDescription">Temporarily relieving cough due to the common cold, upper respiratory tract infections, sinus inflammation, 
+        sore throat, or bronchitis. Dextromethorphan chewable tablets are a cough suppressant.</string>
+    <string name="coldAndCoughNoscapineDescription">Fluitussin is a cough medicine. The tablets contain the active ingredient noscapine, a medicine that has an antitussive
+        (cough-suppressing) effect. Fluitussin should only be used to treat dry (tickly) coughs</string>
+
+    <!--Vomiting-->
+    <string name="vomitingDronabinolDescription"> Dronabinol causes many effects on your central nervous system. Dronabinol is used to treat loss of appetite in people with
+        AIDS. It is also used to treat severe nausea and vomiting that is caused by cancer chemotherapy.</string>
+    <string name="vomitingAprepitantDescription"> Aprepitant is used with other medications to help prevent nausea and vomitingcaused by cancer drug treatment (chemotherapy).
+        This medication is also used to prevent nausea and vomiting after surgery.</string>
+    <string name="vomitingDexamethasoneDescription"> Dexamethasone is a steroid that prevents the release of substances in the body that cause inflammation. </string>
+    <string name="vomitingNabiloneDescription">Nabilone is used to treat severe nausea and vomiting caused by cancer chemotherapy. Nabilone is for use only when other
+        medications have been unable to control the nausea and vomiting.</string>
+    <string name="vomitingDroperidolDescription">Droperidol is used to reduce nausea and vomiting caused by surgery or other medical procedures. Droperidol may also be
+        used for purposes not listed in this medication guide.</string>
+
+    <!--Constipation-->
+    <string name="constipationBuscopanDescription">Buscopan is used to relieve colicky abdominal pain that is caused by painful spasms in the muscles of the gastro-intestinal
+        (GI) or genito-urinary (GU) tract. Spasms of the stomach</string>
+    <string name="constipationLactuloseDescription">Lactulose is a synthetic sugar used to treat constipation. It is broken down in the colon into products that pull water out
+        from the body and into the colon. This water softens stools.</string>
+    <string name="constipationGlucomannanDescription"> Glucomannan is used for constipation, weight loss in adults and children, type 2 diabetes, blood sugar control, and
+        lowering cholesterol</string>
+    <string name="constipationBisacodylDescription"> Bisacodyl is used to treat constipation. It may also be used to clean out the intestines before a bowel examination/surgery.
+        Bisacodyl is known as a stimulant laxative. It works by increasing the movement of the intestines, helping the stool to come out.</string>
+    <string name="constipationLomotilDescription">Lomotil is the brand name of diphenoxylate and atropine, a combination prescription drug used to treat the symptoms of acute or
+        chronic diarrhea.</string>
+
+    <!--blood Pressure-->
+    <string name="bloodPressureLisinoprilDescription">Lisinopril is used to treat high blood pressure. Lowering high blood pressure helps prevent strokes, heart attacks, and kidney problems.
+        It is also used to treat heart failure and to improve survival after a heart attack.</string>
+    <string name="bloodPressureAtenololDescription">Atenolol is used with or without other medications to treat high blood pressure (hypertension). Lowering high blood pressure helps prevent strokes,
+        heart attacks, and kidney problems. This medication is also used to treat chest pain (angina) and to improve survival after a heart attack.</string>
+    <string name="bloodPressureActrapidPenfillDescription">Human insulin lowers your blood sugar level after injection. Each of the following human insulins is available in Penfill 3mL, a glass cartridge
+        designed to be used with Novo Nordisk insulin delivery devices such as NovoPen® 3: Actrapid® is Neutral Insulin Injection. It is a neutral solution of human insulin (rys).</string>
+    <string name="bloodPressureAmarylDescription">Amaryl (glimepiride) is an oral diabetes medicine that helps control blood sugar levels. Amaryl is used together with diet and exercise to treat type 2 diabetes.
+        Insulin or other diabetes medicines are sometimes used in combination with Amaryl if needed.</string>
+    <string name="bloodPressureDiamicronMRDescription">DIAMICRON 60 mg MR is used when diet and exercise are not enough to control your blood glucose. DIAMICRON 60 mg MR can be used alone or together with insulin
+        or other medicines for treating diabetes.</string>
+
+    <!--daily health care-->
+    <string name="dailyHealthCareGlucobayDescription">The recommended adult dose of acarbose varies. The starting dose is 50 mg once daily, with a gradual increase in dose as needed to control blood glucose.
+        The maximum daily dose is 100 mg three times daily, taken with the first bite of a meal.</string>
+    <string name="dailyHealthCareGNCBurn60Description">GNC Burn 60™ is a clinically proven thermogenic formula that helps to enhance metabolism, burn calories and boost energy levels. With its powerful ingredients,
+        Burn 60 enhances cellular metabolic activity. For best results, use the healthy diet and exercise program included with Burn 60.</string>
+    <string name="dailyHealthCareCalciumPluswithMagnesiumDescription">Calcium/magnesium/vitamin d is a dietary supplement. It works by providing extra calcium, magnesium, and vitamin D to your body.Treating or preventing
+        calcium deficiency. It may also be used for other conditions as determined by your doctor.</string>
+    <string name="dailyHealthCareBetaCaroteneDescription">Beta-carotene is used to decrease asthma symptoms caused by exercise; to prevent certain cancers, heart disease, cataracts, and age related macular degeneration (AMD).</string>
+    <string name="dailyHealthCareADVANTECDescription">For the treatment of Hypertension. This fixed dose combination is not intended for initial therapy.</string>
+    <string name="dailyHealthCareAscardDescription">Ascard is used to treat pain, and reduce fever or inflammation. Ascard is sometimes used to treat or prevent heart attacks, strokes, and chest pain (angina).
+        Ascard should be used for cardiovascular conditions only under the supervision of a doctor.</string>
+    <string name="dailyHealthCareLoprinDescription">Loprin 75mg tablet is used in fever, headache, arthralgia, myalgia, dental pain, post operative pain, rheumatoid arthritis, osteoarthritis and rheumatic fever.It also prevents
+        recurrence of heart attack and stroke</string>
+    <string name="dailyHealthCareCLENILNEBULISERDescription">Indications:  Clenil Compositum is used for the treatment of bronchial asthma, chronic obstructive bronchopathy with asthmatic component.</string>
+    <string name="dailyHealthCareMontelukastDescription">Montelukast belongs to a group of medications known as leukotriene receptor antagonists. It is used to prevent and manage asthma symptoms and to relieve the symptoms of seasonal
+        allergies, also known as seasonal allergic rhinitis or hay fever. Montelukast usually starts to work within one day.</string>
+
+
+    <!--Availability on Websites-->
+    <!--Fever Medicines-->
+    <string name="feverNuberolWebsite">https://dvago.pk/products/nuberol_tablets_forte_15s</string>
+    <string name="feverAspirinWebsite">https://www.netmeds.com/prescriptions/aspirin-75mg-tablet-14-s</string>
+    <string name="feverActironCFWebsite">https://medicalstore.com.pk/product/actiron-cf-tablet-10x10s/</string>
+    <string name="feverAcetaminophenWebsite">https://www.indiamart.com/proddetail/acetaminophen-22581719762.html?pos=0andpla=n</string>
+    <string name="feverPanadolWebsite">https://pharmeasy.in/online-medicine-order/panadol-tab-57196</string>
+
+    <!--Headache-->
+    <string name="headacheProthiadenWebsite">https://www.1mg.com/drugs/prothiaden-tablet-347102#:~:text=Prothiaden%20Tablet%20is%20a%20medicine,a%20doctor%2C%20exactly%20as%20directed.</string>
+    <string name="headacheDisprinWebsite">https://www.1mg.com/otc/disprin-regular-325mg-effervescent-tablet-otc543020</string>
+    <string name="headacheParacetamolWebsite">https://www.1mg.com/drugs/dolo-650-tablet-74467</string>
+    <string name="headacheZolmitriptanWebsite">https://www.1mg.com/drugs/zolmit-2.5mg-capsule-298268</string>
+    <string name="headacheNaproxenWebsite">https://www.1mg.com/search/all?filter=trueandname=Naproxen%20250</string>
+
+    <!--Cold and Cough-->
+    <string name="coldAndCoughLefloxWebsite">https://www.1mg.com/drugs/leflox-500mg-tablet-447289</string>
+    <string name="coldAndCoughCodeineWebsite">https://www.1mg.com/search/all?filter=trueandname=Codeine%20syrup</string>
+    <string name="coldAndCoughArinacWebsite">https://www.1mg.com/search/all?name=Arinac</string>
+    <string name="coldAndCoughDextromethorphanWebsite">https://www.1mg.com/drugs/benadryl-dr-syrup-90438</string>
+    <string name="coldAndCoughNoscapineWebsite">https://www.1mg.com/search/all?name=Noscapine</string>
+
+    <!--Vomitng-->
+    <string name="vomitingDronabinolWebsite">https://www.goodrx.com/dronabinol</string>
+    <string name="vomitingAprepitantWebsite">https://www.1mg.com/drugs/aprecap-125-80-capsule-58464</string>
+    <string name="vomitingDexamethasoneWebsite">https://www.netmeds.com/prescriptions/dexamethasone-0-5mg-tablet-200-s</string>
+    <string name="vomitingNabiloneWebsite">https://www.webmd.com/drugs/2/drug-144706/nabilone-oral/details</string>
+    <string name="vomitingDroperidolWebsite">https://www.medindia.net/search-result.asp?q=Droperidol#gsc.tab=0andgsc.q=Droperidolandgsc.page=1</string>
+
+    <!--Constipation-->
+    <string name="constipationBuscopanWebsite">https://www.1mg.com/drugs/buscopan-10mg-tablet-400562#:~:text=Buscopan%2010mg%20Tablet%20is%20used,%2C%20and%20diarrhea%20or%20constipation).</string>
+    <string name="constipationLactuloseWebsite">https://www.indiamart.com/proddetail/lactulose-solution-u-s-p-20321606391.html</string>
+    <string name="constipationGlucomannanWebsite">https://in.iherb.com/pr/Now-Foods-Glucomannan-575-mg-180-Veg-Capsules/6673?gclid=CjwKCAjwhYOFBhBkEiwASF3KGcpBUiVOM2d6M2ZxwzGVDtJnrdteCEH1shtC2-VnjOKQOu-OIQGhsxoCD74QAvD_BwEandgclsrc=aw.ds/</string>
+    <string name="constipationBisacodylWebsite">https://www.rxindia.com/medicines/medicines-by-therapeutic-class/constipation/dulcoflex-5-mg-bisacodyl-tablet/</string>
+    <string name="constipationLomotilWebsite">https://www.netmeds.com/prescriptions/lomotil-tablet-20-s</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--blood Pressure-->
+    <string name="bloodPressureLisinoprilWebsite">https://www.netmeds.com/generics/lisinopril-10mg</string>
+    <string name="bloodPressureAtenololWebsite">https://www.netmeds.com/prescriptions/atenolol-cipla-25mg-tablet-14-s</string>
+    <string name="bloodPressureActrapidPenfillWebsite">https://www.netmeds.com/prescriptions/actrapid-hm-penfill-cartridge-1x3ml</string>
+    <string name="bloodPressureAmarylWebsite">https://www.netmeds.com/catalogsearch/result?q=Amaryl</string>
+    <string name="bloodPressureDiamicronMRWebsite">https://www.netmeds.com/catalogsearch/result?q=DiamicronMR</string>
+
+    <!--daily health care-->
+    <string name="dailyHealthCareGlucobayWebsite">https://www.netmeds.com/catalogsearch/result?q=Glucobay</string>
+    <string name="dailyHealthCareGNCBurn60Website">https://www.guardian.in/stay-home-fitness.html?utm_source=Googleandutm_medium=gnc_sem_brand_gnc_bmmandutm_campaign=sok-gnc-search-brand-bmmandutm_content=bandutm_term=%2Bgncandgclid=CjwKCAjwhYOFBhBkEiwASF3KGQOQ5idqpIOD1ziG5DcBh1s1Uy5OVmPBC1eemN9RVlKFrgV2oT8hQBoCMA8QAvD_BwE</string>
+    <string name="dailyHealthCareCalciumPluswithMagnesiumWebsite">https://www.guardian.in/gnc-calcium-plus-600-mg-with-magnesium-and-vitamin-d3-180-tablets.html?utm_source=google_shoppingandutm_medium=90200098andutm_campaign=sok-gnc-shopping-usc-multivitaminandutm_content=candgclid=CjwKCAjwhYOFBhBkEiwASF3KGUs7gneblhK5Dop7JOR098Zfy7IKUucGabaA6YN0JGiEz_cJ81CEAhoCQLsQAvD_BwE</string>
+    <string name="dailyHealthCareBetaCaroteneWebsite">https://in.iherb.com/pr/Source-Naturals-Beta-Carotene-25-000-IU-250-Softgels/985/</string>
+    <string name="dailyHealthCareADVANTECWebsite">https://www.dawaee.pk/cart.php</string>
+    <string name="dailyHealthCareAscardWebsite">https://www.dawaee.pk/search.php?search_query=Ascardandsection=product</string>
+    <string name="dailyHealthCareLoprinWebsite">https://www.dawaee.pk/loprin-tablet-aspirin-75mg/</string>
+    <string name="dailyHealthCareCLENILNEBULISERWebsite">http://www.chiesipakistan.com/clenil-compositum-for-aerosol/</string>
+    <string name="dailyHealthCareMontelukastWebsite">https://www.netmeds.com/prescriptions/singulair-10mg-tablet-15-s</string>
+
+
+    <string name="heading_one">WELCOME</string>
+    <string name="heading_two">Features :-</string>
+    <string name="heading_three">Next Step :-</string>
+
+
+    <string name="desc_one">Check All the Live Updates Regarding Covid-19</string>
+    <string name="desc_two">
+        <br>
+         1. Check Near By Hospitals \n
+      </br>
+      <br>
+         2. Book Your Curfew Passes and vaccination\n
+      </br>
+      <br>
+         3. Check Live Updates Regarding Corona Cases.\n
+      </br>
+        <br>
+         4. Check Precautions , medical support and donation features \n
+      </br>
+    </string>
+    <string name="desc_three">Go To Home Page</string>
+
+
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hackathon.covid19livetracker">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Covid19LiveTracker">
+        <activity android:name=".webview2"></activity>
+        <activity android:name=".webview" />
+        <activity android:name=".secondpass" />
+        <activity android:name=".firstpass" />
+        <activity android:name=".Donation" />
+        <activity android:name=".Prevention2" />
+        <activity android:name=".Preventions" />
+        <activity android:name=".CovidStarting" />
+        <activity android:name=".Tarn_Taran" />
+        <activity android:name=".Sangrur" />
+        <activity android:name=".Sahibzada_Ajit_Singh_Nagar_Mohali" />
+        <activity android:name=".Rupnagar" />
+        <activity android:name=".Patiala" />
+        <activity android:name=".Pathankot" />
+        <activity android:name=".Nawanshahr" />
+        <activity android:name=".Muktsar" />
+        <activity android:name=".Moga" />
+        <activity android:name=".Mansa" />
+        <activity android:name=".Ludhiana" />
+        <activity android:name=".Kapurthala" />
+        <activity android:name=".Jalandhar" />
+        <activity android:name=".Hoshiarpur" />
+        <activity android:name=".Gurdaspur" />
+        <activity android:name=".Ferozepur" />
+        <activity android:name=".Fazilka" />
+        <activity android:name=".Fatehgarh_Sahib" />
+        <activity android:name=".Faridkot" />
+        <activity android:name=".Bathinda" />
+        <activity android:name=".Barnala" />
+        <activity android:name=".Amritsar" />
+        <activity android:name=".Details" />
+        <activity android:name=".Hospital" />
+        <activity android:name=".DetailActivity2" />
+        <activity android:name=".ThirdActivity" />
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.wallet.api.enabled"
+            android:value="true" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".Second_Activity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".MedicalProblems" />
+        <activity android:name=".RequiredMedicines" />
+        <activity android:name=".WebsiteView" />
+    </application>
+
+</manifest>
