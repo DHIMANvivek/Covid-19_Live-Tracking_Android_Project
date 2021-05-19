@@ -23,7 +23,7 @@
 
 **Process Flow :-** 
 
-![ANDROID STRATERGY](https://user-images.githubusercontent.com/53940939/117925019-4a2b4680-b314-11eb-8bcb-7ba265e642d7.png)
+![final](https://user-images.githubusercontent.com/53940939/118807390-de258100-b8c5-11eb-86dc-0abe6e95f416.jpg)
 
 this information is provided early on 12-05-2021
 
