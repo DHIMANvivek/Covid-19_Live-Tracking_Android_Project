@@ -34,3 +34,13 @@ so we will do add some more features to our applications but the things which is
 # Let me Describe About Our Project That How it Works :-
 
 ![1st image](https://user-images.githubusercontent.com/53940939/118755516-a21efb80-b886-11eb-9245-ab81e439db01.jpeg)
+
+1. This is the splash screen when user opened our app this will stay for 2 seconds on during run time of application.
+
+![2nd pic](https://user-images.githubusercontent.com/53940939/118755842-4143f300-b887-11eb-972a-abb2a4abe26b.jpeg)
+
+2. This is the second page our app which include ( Made in India ) + Google Sign In Integration so that user signed in successfully and move toward the other activity.
+
+
+
+
