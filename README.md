@@ -23,7 +23,8 @@
 
 **Process Flow :-** 
 
-![ANDROID STRATERGY](https://user-images.githubusercontent.com/53940939/117925019-4a2b4680-b314-11eb-8bcb-7ba265e642d7.png)
+![gne college](https://user-images.githubusercontent.com/53940939/118806202-673bb880-b8c4-11eb-8312-95113764738b.jpg)
+
 
 this information is provided early on 12-05-2021
 
