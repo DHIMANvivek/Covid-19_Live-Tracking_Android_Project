@@ -30,3 +30,7 @@ this information is provided early on 12-05-2021
 so we will do add some more features to our applications but the things which is mentioned above is stick and permanent :)
 
 **Finally Our Project Is Ready To Serve Online For The Welfare Of Society. This took 11-05-2021 to 19-05-2021  for the completion of the project :)**
+
+# Let me Describe About Our Project That How it Works :-
+
+![1st image](https://user-images.githubusercontent.com/53940939/118755516-a21efb80-b886-11eb-9245-ab81e439db01.jpeg)
