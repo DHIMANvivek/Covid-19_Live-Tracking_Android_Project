@@ -35,6 +35,7 @@ so we will do add some more features to our applications but the things which is
 
 ![first page of application](https://user-images.githubusercontent.com/53940939/118757227-4d7d7f80-b88a-11eb-8469-2ab5f1ec2a92.jpg)
 
+
 ![4th main](https://user-images.githubusercontent.com/53940939/118758395-9b938280-b88c-11eb-8b0d-a55ef911ae23.jpg)
 
 
@@ -45,6 +46,17 @@ so we will do add some more features to our applications but the things which is
 
 
 ![7th](https://user-images.githubusercontent.com/53940939/118762068-33946a80-b893-11eb-8fc6-223228d2ec71.jpg)
+
+
+![8th](https://user-images.githubusercontent.com/53940939/118762836-83276600-b894-11eb-89d8-5af790f022ce.jpg)
+
+
+![9th](https://user-images.githubusercontent.com/53940939/118763378-60498180-b895-11eb-8d2f-7d912e44487f.jpg)
+
+
+
+
+
 
 
 
